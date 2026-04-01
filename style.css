@@ -45,7 +45,7 @@ body {
 
 .whole-form h2 {
     text-align: center;
-    color: black;
+    color: rgb(255, 255, 255);
     font-size: 40px;
     font-weight: bolder;
 }
@@ -78,7 +78,6 @@ body {
 .btn:hover {
     background-color: black;
     color: white;
-    transition: 0.5s;
 }
 
 
